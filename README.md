@@ -99,4 +99,4 @@ Help
 ## Deploy Contract
 
 - [NFT](https://rinkeby.etherscan.io/address/0x7f097e8850be2811a50bed289884e1345e6f5674)
-- [Treasury](https://rinkeby.etherscan.io/address/0xc29ebff958ed61cf1ae562a727b57f690d6b3849)
+- [Treasury](https://rinkeby.etherscan.io/address/0x5347325bfdbf667b70e8e62c08336629915f7633#code)
